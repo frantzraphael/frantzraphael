@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Raphael Frantz
 
-I'm a Front-End Developer & Solutions Architect currently living in Lisbon 🇵🇹.  
+I'm a Front-End Developer who lived some back-end experiences. Currently living in Lisbon 🇵🇹
 I work mostly with **large scale web applications**, **complex UIs**, **real-time data**, and **high performance front-ends**.  
-Most of my recent experience has been building systems in **Angular** and **React**, especially in environments where the UI actually matters (like, a lot).  
+Most of my recent experience has been building systems in **Angular** and **React**, especially in environments where the UI actually matters (like, a lot).
 
 I believe in code that is **clean**, **modular**, and actually enjoyable to maintain.  
-Sounds obvious, but we both know it's not always the case out there.
+Sounds obvious, but we both know it's not always the case out there
 
 ---
 
@@ -14,7 +14,7 @@ Sounds obvious, but we both know it's not always the case out there.
 - Work on **enterprise systems** (CTRM, insurance, e-commerce, telecom campaigns…)
 - Build **framework-level components**, design systems, modular front-end architecture
 - Deal daily with **RxJS**, **Ag-Grid**, large forms, dynamic UIs, **state management**
-- Optimize performance and scalability (sometimes fighting the grid, sometimes winning 😄)
+- Optimize performance and scalability
 
 Right now I'm working at **COFCO International**, on a CTRM platform used globally across different currencies, time zones, UoMs, and operations. It’s a beast. A beautiful beast.
 
@@ -35,16 +35,17 @@ Adobe XD, Figma, motion & visual hierarchy stuff (not a designer, but definitely
 
 ### 🔥 Some Projects / Highlights
 
-| Project / Company | Description | Tech |
-|---|---|---|
-| **CTRM Platform – COFCO International** | Real-time trading dashboards, complex document flows, massive dataset UI | Angular 19, RxJS, Ag-Grid, Jest, Cypress |
-| **Vivo Recarga Premiada – TimweTech** | Campaign with *millions* of users redeeming prizes + instant draws | React, APIs, Realtime events, Responsive UI |
-| **Telemedicine App – Bradesco Seguros** | Remote medical consultation app launched during the pandemic | Angular, Ionic, Capacitor, Firebase |
-| **Beleza na Web (Grupo Boticário)** | Microfrontends, performance tuning, UI refinement | React, GraphQL, Webpack, Tailwind |
+| Project / Company                       | Description                                                              | Tech                                        |
+| --------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------- |
+| **CTRM Platform – COFCO International** | Real-time trading dashboards, complex document flows, massive dataset UI | Angular 19, RxJS, Ag-Grid, Jest, Cypress    |
+| **Vivo Recarga Premiada – TimweTech**   | Campaign with _millions_ of users redeeming prizes + instant draws       | React, APIs, Realtime events, Responsive UI |
+| **Telemedicine App – Bradesco Seguros** | Remote medical consultation app launched during the pandemic             | Angular, Ionic, Capacitor, Firebase         |
+| **Beleza na Web (Grupo Boticário)**     | Microfrontends, performance tuning, UI refinement                        | React, GraphQL, Webpack, Tailwind           |
 
 ---
 
-### 🎨 Creative Stuff Too  
+### 🎨 Creative Stuff Too
+
 I also like to think about visuals, interaction and usability.  
 My Behance has some old UI explorations, branding exercises and prototypes:
 
@@ -56,15 +57,16 @@ Not a “designer designer”, but I care deeply about the experience.
 
 ### 🌍 Socials & Contact
 
-| Platform | Link |
-|---|---|
-| LinkedIn | https://www.linkedin.com/in/raphaelfrantz/ |
-| Website (soon) | rgallotti.com |
-| Email | contato@rgallotti.com |
+| Platform       | Link                                       |
+| -------------- | ------------------------------------------ |
+| LinkedIn       | https://www.linkedin.com/in/raphaelfrantz/ |
+| Website (soon) | rgallotti.com                              |
+| Email          | contato@rgallotti.com                      |
 
 ---
 
 ### ⚡ Fun Facts
+
 - I run, lift, travel and drink good espresso.
 - I used to manage **100+ e-commerce builds** back in the day. Wild times.
 - I like code that ages well.
@@ -76,4 +78,3 @@ Not a “designer designer”, but I care deeply about the experience.
 Open to interesting remote projects, high-impact front-end challenges, or just good conversations about architecture.  
 If you wanna build something meaningful (or complex, or fun), just reach me.  
 I'll probably answer faster than I should.
-
