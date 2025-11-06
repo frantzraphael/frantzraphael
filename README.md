@@ -58,11 +58,8 @@ Not a “designer designer”, but I care deeply about the experience.
 
 ### 🌍 Socials & Contact
 
-| Platform       | Link                                       |
-| -------------- | ------------------------------------------ |
-| LinkedIn       | https://www.linkedin.com/in/raphaelfrantz/ |
-| Website (soon) | rgallotti.com                              |
-| Email          | contato@rgallotti.com                      |
+- [LinkedIn](https://linkedin.com/in/raphaelfrantz)      
+- [Email](mailto:contato@rgallotti.com)    
 
 ---
 
@@ -78,4 +75,3 @@ Not a “designer designer”, but I care deeply about the experience.
 
 Open to interesting remote projects, high-impact front-end challenges, or just good conversations about architecture.  
 If you wanna build something meaningful (or complex, or fun), just reach me.  
-I'll probably answer faster than I should.
