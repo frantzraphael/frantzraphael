@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hey, I'm Raphael Frantz
 
-<!--
-**frantzraphael/frantzraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-End Developer & Solutions Architect currently living in Lisbon 🇵🇹.  
+I work mostly with **large scale web applications**, **complex UIs**, **real-time data**, and **high performance front-ends**.  
+Most of my recent experience has been building systems in **Angular** and **React**, especially in environments where the UI actually matters (like, a lot).  
 
-Here are some ideas to get you started:
+I believe in code that is **clean**, **modular**, and actually enjoyable to maintain.  
+Sounds obvious, but we both know it's not always the case out there.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 What I do
+
+- Work on **enterprise systems** (CTRM, insurance, e-commerce, telecom campaigns…)
+- Build **framework-level components**, design systems, modular front-end architecture
+- Deal daily with **RxJS**, **Ag-Grid**, large forms, dynamic UIs, **state management**
+- Optimize performance and scalability (sometimes fighting the grid, sometimes winning 😄)
+
+Right now I'm working at **COFCO International**, on a CTRM platform used globally across different currencies, time zones, UoMs, and operations. It’s a beast. A beautiful beast.
+
+---
+
+### 🛠️ Tech Stack (a non-exhaustive, slightly messy list)
+
+**Main:**  
+`Angular` · `React` · `TypeScript` · `RxJS` · `Ag-Grid` · `Node` · `GraphQL` · `Jest` · `Cypress`
+
+**Also worked quite a bit with:**  
+`Ionic` · `Capacitor` · `Firebase` · `Webpack` · `Tailwind` · `SCSS` · `CI/CD` · `Docker` · `Linux VPS` · `PHP (old times, good times)`
+
+**UI / Product / Thinking About Design:**  
+Adobe XD, Figma, motion & visual hierarchy stuff (not a designer, but definitely design-aware)
+
+---
+
+### 🔥 Some Projects / Highlights
+
+| Project / Company | Description | Tech |
+|---|---|---|
+| **CTRM Platform – COFCO International** | Real-time trading dashboards, complex document flows, massive dataset UI | Angular 19, RxJS, Ag-Grid, Jest, Cypress |
+| **Vivo Recarga Premiada – TimweTech** | Campaign with *millions* of users redeeming prizes + instant draws | React, APIs, Realtime events, Responsive UI |
+| **Telemedicine App – Bradesco Seguros** | Remote medical consultation app launched during the pandemic | Angular, Ionic, Capacitor, Firebase |
+| **Beleza na Web (Grupo Boticário)** | Microfrontends, performance tuning, UI refinement | React, GraphQL, Webpack, Tailwind |
+
+---
+
+### 🎨 Creative Stuff Too  
+I also like to think about visuals, interaction and usability.  
+My Behance has some old UI explorations, branding exercises and prototypes:
+
+**Behance:** https://www.behance.net/raphaelgallott
+
+Not a “designer designer”, but I care deeply about the experience.
+
+---
+
+### 🌍 Socials & Contact
+
+| Platform | Link |
+|---|---|
+| LinkedIn | https://www.linkedin.com/in/raphaelfrantz/ |
+| Website (soon) | rgallotti.com |
+| Email | contato@rgallotti.com |
+
+---
+
+### ⚡ Fun Facts
+- I run, lift, travel and drink good espresso.
+- I used to manage **100+ e-commerce builds** back in the day. Wild times.
+- I like code that ages well.
+
+---
+
+### 🤝 Wanna Collaborate?
+
+Open to interesting remote projects, high-impact front-end challenges, or just good conversations about architecture.  
+If you wanna build something meaningful (or complex, or fun), just reach me.  
+I'll probably answer faster than I should.
+
