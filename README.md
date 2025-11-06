@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Raphael Frantz
 
 I'm a Front-End Developer who lived some back-end experiences. Currently living in Lisbon 🇵🇹
+
 I work mostly with **large scale web applications**, **complex UIs**, **real-time data**, and **high performance front-ends**.  
 Most of my recent experience has been building systems in **Angular** and **React**, especially in environments where the UI actually matters (like, a lot).
 
