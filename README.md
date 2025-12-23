@@ -18,10 +18,10 @@ Right now I'm working at **COFCO International**, on a CTRM platform used global
 ### 🛠️ Tech Stack (a non-exhaustive, slightly messy list)
 
 **Main:**  
-`Angular` · `React` · `TypeScript` · `RxJS` · `Ag-Grid` · `Node` · `GraphQL` · `Jest` · `Cypress`
+`Angular` · `React` · `TypeScript` · `RxJS` · `Ag-Grid` · `Node` · `Webpack` · `GraphQL` · `Jest` · `Cloudflare` · `Cypress` 
 
 **Also worked quite a bit with:**  
-`Ionic` · `Capacitor` · `Firebase` · `Webpack` · `Tailwind` · `SCSS` · `CI/CD` · `Docker` · `Linux VPS` · `PHP (old times, good times)`
+`Astro` · `Ionic` · `Capacitor` · `Firebase` · `Tailwind` · `SCSS` · `CI/CD` · `Docker` · `Linux Server` · `PHP (old times, good times)`
 
 **UI / Product / Thinking About Design:**  
 Adobe XD, Figma, motion & visual hierarchy stuff (not a designer, but definitely design-aware)
