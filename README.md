@@ -57,10 +57,9 @@ Not a “designer designer”, but I care deeply about the experience.
 
 ---
 
-### ⚡ Fun Facts
+### ⚡
 
 - I run, lift, travel and drink good espresso.
-- I used to manage **100+ e-commerce builds** back in the day. Wild times.
 - I like code that ages well.
 
 ---
