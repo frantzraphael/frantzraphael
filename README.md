@@ -1,70 +1,57 @@
-# 👋 Hey, I'm Raphael Frantz
+# Hi! I'm Raphael Frantz
 
-I'm a Front-End Developer who lived some back-end experiences. Currently living in Lisbon 🇵🇹
+Front-End Developer based in Lisbon 🇵🇹, focused on building **scalable and maintainable web applications**.
 
----
+Over the years, I've worked across trading, insurance, e-commerce and telecom, mostly in products where the front end sits close to the core business.
 
-### 🧭 What I do
-
-- Work on **enterprise systems** (CTRM, insurance, e-commerce, telecom campaigns…)
-- Build **framework-level components**, design systems, modular front-end architecture
-- Deal daily with **RxJS**, **Ag-Grid**, large forms, dynamic UIs, **state management**
-- Optimize performance and scalability
-
-Right now I'm working at **COFCO International**, on a CTRM platform used globally across different currencies, time zones, UoMs, and operations. It’s a beast. A beautiful beast.
+Today, I work at **COFCO International**, building a global CTRM platform with complex workflows, large datasets, concurrency and demanding business rules.
 
 ---
 
-### 🛠️ Tech Stack (a non-exhaustive, slightly messy list)
+## Understanding the product behind the code
 
-**Main:**  
-`Angular` · `React` · `TypeScript` · `RxJS` · `Ag-Grid` · `Node` · `Webpack` · `GraphQL` · `Jest` · `Cloudflare` · `Cypress` 
-
-**Also worked quite a bit with:**  
-`Astro` · `Ionic` · `Capacitor` · `Firebase` · `Tailwind` · `SCSS` · `CI/CD` · `Docker` · `Linux Server` · `PHP (old times, good times)`
-
-**UI / Product / Thinking About Design:**  
-Adobe XD, Figma, motion & visual hierarchy stuff (not a designer, but definitely design-aware)
+* Architecture
+* User friendly flows
+* Scalable component systems
+* Performance and observability
+* Testing and engineering quality
 
 ---
 
-### 🔥 Some Projects / Highlights
+## Experience
 
-| Project / Company                       | Description                                                              | Tech                                        |
-| --------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------- |
-| **CTRM Platform – COFCO International** | Real-time trading dashboards, complex document flows, massive dataset UI | Angular 19, RxJS, Ag-Grid, Jest, Cypress    |
-| **Vivo Recarga Premiada – TimweTech**   | Campaign with _millions_ of users redeeming prizes + instant draws       | React, APIs, Realtime events, Responsive UI |
-| **Telemedicine App – Bradesco Seguros** | Remote medical consultation app launched during the pandemic             | Angular, Ionic, Capacitor, Firebase         |
-| **Beleza na Web (Grupo Boticário)**     | Microfrontends, performance tuning, UI refinement                        | React, GraphQL, Webpack, Tailwind           |
+**COFCO International**
+Global Commodity Trading and Risk Management platform.
 
----
+**[GumoHub](https://dev.gumohub.com) — Marketplace Hub**
+Currently in development — a marketplace platform I'm building and evolving as a product.
 
-### 🎨 Creative Stuff Too
+**Beleza na Web — Grupo Boticário**
+E-commerce, microfrontends, performance and front-end architecture.
 
-I also like to think about visuals, interaction and usability.  
-My Behance has some old UI explorations, branding exercises and prototypes:
+**Bradesco Seguros**
+Telemedicine application built during the pandemic.
 
-**Behance:** https://www.behance.net/raphaelgallott
-
-Not a “designer designer”, but I care deeply about the experience.
+**Vivo — TimweTech**
+Large-scale promotional platform serving millions of users.
 
 ---
 
-### 🌍 Socials & Contact
+## How I think about engineering
 
-- [LinkedIn](https://linkedin.com/in/raphaelfrantz)      
-- [Email](mailto:contato@rgallotti.com)    
+I care about simple solutions, using of design patterns, clear abstractions and code that can evolve without becoming a burden.`
 
----
-
-### ⚡
-
-- I run, lift, travel and drink good espresso.
-- I like code that ages well.
+And I like code that ages well.
 
 ---
 
-### 🤝 Wanna Collaborate?
+## Beyond code
 
-Open to interesting remote projects, high-impact front-end challenges, or just good conversations about architecture.  
-If you wanna build something meaningful (or complex, or fun), just reach me.  
+I care about product, usability and visual quality. 
+I'm not a designer, but I enjoy thinking about interaction, hierarchy and how software feels to use.`
+
+Outside work: running, lifting, travelling and good espresso.
+
+---
+
+[LinkedIn](https://linkedin.com/in/raphaelfrantz) · [Site](https://rgallotti.com)
