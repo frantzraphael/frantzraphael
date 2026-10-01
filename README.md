@@ -23,7 +23,7 @@ Today, I work at **COFCO International**, building a global CTRM platform with c
 **COFCO International**
 Global Commodity Trading and Risk Management platform.
 
-**[GumoHub](https://gumohub.com) — Marketplace Hub**
+**[GumoHub](https://institucional.gumohub.com) — Marketplace Hub**
 A multi-tenant marketplace platform to integrate ERPs with several channels.
 
 **Beleza na Web — Grupo Boticário**
